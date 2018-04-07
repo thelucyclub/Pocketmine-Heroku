@@ -1,0 +1,1 @@
+worker: bin\php\php.exe src\pocketmine\PocketMine.php

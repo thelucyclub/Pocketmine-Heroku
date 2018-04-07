@@ -1,0 +1,10 @@
+{
+  "name": "Pocketmine-Heroku",
+  "description": "uh",
+  "version": "0.0.0",
+  "main": "src\pocketmine\PocketMine.php",
+  "scripts": {
+    "start": "bin\php\php.exe src\pocketmine\PocketMine.php"
+  },
+  "dependencies": {}
+}
