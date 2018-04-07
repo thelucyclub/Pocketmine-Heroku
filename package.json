@@ -4,7 +4,9 @@
   "version": "0.0.0",
   "main": "src\pocketmine\PocketMine.php",
   "scripts": {
-    "start": "bin\php\php.exe src\pocketmine\PocketMine.php"
+    "start": "php src\pocketmine\PocketMine.php"
   },
-  "dependencies": {}
+  "dependencies": {
+    "php": "7.2.4"
+  }
 }
