@@ -1,1 +1,1 @@
-worker: php src\pocketmine\PocketMine.php
+worker: bin\php\php.exe src\pocketmine\PocketMine.php
